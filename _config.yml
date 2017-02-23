@@ -1,10 +1,10 @@
 # main text of home
-name: Diego Santos
-bio: 'Desenvolvedor com foco em Qualidade'
+name: Asad Ali Shah
+bio: 'R adventurer'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/foto.png'
+picture: 'assets/images/profile.jpeg'
 
 url: https://asadalishah.github.io
 # your url: http://USERNAME.github.io

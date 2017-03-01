@@ -16,5 +16,5 @@ permalink: /about/index.html
 <h2>Projects</h2>
 
 <ul>
-	<li><a Coming soon </a></li>
+	<li> Coming soon </li>
 </ul>

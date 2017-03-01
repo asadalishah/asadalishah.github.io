@@ -1,6 +1,6 @@
 # main text of home
 name: Asad Ali Shah
-bio: 'R adventurer'
+bio: 'Learning to learn R one night at a time'
 
 # if it's an external image, update below for true
 external-image: false
@@ -15,7 +15,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-77362389-1'
+# analytics-google: 'UA-77362389-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'

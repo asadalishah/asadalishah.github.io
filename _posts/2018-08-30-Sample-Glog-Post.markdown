@@ -22,7 +22,7 @@ This is an R Markdown format used for publishing markdown documents to GitHub. W
 
 You can include R code in the document as follows:
 
-```{r cars}
+```
 summary(cars)
 ```
 
@@ -30,7 +30,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+```
 plot(pressure)
 ```
 

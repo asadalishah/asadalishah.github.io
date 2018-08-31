@@ -33,6 +33,9 @@ You can also embed plots, for example:
 ```
 plot(pressure)
 ```
-![Image of pricesen](https://github.com/asadalishah/asadalishah.github.io/blob/master/assets/images/pricesen.png)  
+![Image of pricesen1](https://github.com/asadalishah/asadalishah.github.io/blob/master/assets/images/pricesen.png)  
+![Image of pricesen2](https://raw.githubusercontent.com/asadalishah/asadalishah.github.io/master/assets/images/pricesen.png)  
+![Image of pricesen3](https://asadalishah.github.io/assets/images/pricesen.png)  
+    
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

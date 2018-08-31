@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 title: "Sample Blog Post"
 layout: post
 date: 2018-08-30 22:50

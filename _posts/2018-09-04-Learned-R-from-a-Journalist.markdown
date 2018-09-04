@@ -11,6 +11,7 @@ blog: true
 star: false
 ---
 
+
 ## A borrwed title, “not that there’s anything wrong with that”
 
 Adorning the title of this first blog post with a line from Sienfeld – “not that there’s anything wrong with that” - gives me great pleasure and satisfaction. For those of you who are interested, this dialogue was delivered (many times) in the “The Outing”, the 57th episode of Seinfeld.

@@ -1,5 +1,5 @@
 ﻿---
-title: "I learned R from a Journalist; Not that anything is wrong with that!"
+title: "Learning R from a Journalist; Not that anything is wrong with that!"
 layout: post
 date: 2018-09-04 20:00
 tag:

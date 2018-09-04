@@ -52,6 +52,11 @@ The course has six modules, as follows:
 Please explore the modules yourself. Each module is elaborate and doesn’t leave anything to chance. For example, Importing/Exporting data goes through importing from five different types of files: CSV, Excel, Delimited, JSON and SPSS. And that is not all. It also covers copying and pasting data – something which the instructor discourages – and folder of files.
 
 
+## Help of a friend
+
+The friend who referred the course – a Machine Learning expert – to me is kind of caught in the middle. I do the course exercises, note the questions and then discuss with him. Most of my questions are to clarify certain concepts or some thoughts which I note down during the note taking.
+
+
 ## And an(other) R Blog is born
 
-What I have decided is to go through each section of the modules starting with the Importing/Expoerting data. While going through the exercises, I will record what I have learnt so that I remember that I did learn ;-) I promise myself that I will cover each module in one week. Fingers crossed.
+Given the (relative to my previous performance) progress I have made, I decided to take it seriously and write down my learning experiences for better retention. I will go through each section of the modules starting with the Importing/Expoerting data. While going through the exercises, I will record my notes, discuss them with the friend, add those discussion points to the notes, and then publish them for the myself and posterity (wink, wink), so that I remember that I did learn ;-) Fingers crossed.

@@ -33,7 +33,7 @@ It has happened many a time to me; I started R with great excitement and then go
 
 This time proved to different. How?
 
-The objective of this course [Introduction to R for Journalists: How to Find Great Stories in Data] (https://journalismcourses.org/course/view.php?id=9) at its most basic, obviously is to teach journalists how to use R. (You might have to sign up to access the course.) The instructor has assumed nothing. He has covered the basics of R, and how man how thoroughly he did that is amazing.
+The objective of this course [Introduction to R for Journalists: How to Find Great Stories in Data](https://journalismcourses.org/RC0818.html) at its most basic, obviously is to teach journalists how to use R. (You might have to sign up to access the course.) The instructor has assumed nothing. He has covered the basics of R, and how man how thoroughly he did that is amazing.
 
 
 ## Course and its details

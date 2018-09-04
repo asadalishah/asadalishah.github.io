@@ -24,7 +24,7 @@ No other code in this post, I promise. That comes in subsequent posts.
 Adorning the title of this first blog post with a line from Sienfeld – “not that there’s anything wrong with that” - gives me great pleasure and satisfaction. For those of you who are interested, this dialogue was delivered (many times) in the “The Outing”, the 57th episode of Seinfeld.
 
 
-## Learn R, Learn Not R
+## Learn R, Learn R Not
 
 It has happened many a time to me; I started R with great excitement and then got discouraged soon when I was unable to get the data, get it properly in R. In hindsight, that was because of an availablity of abundance of resources. Each resource had a different way of doing the same thing. Some had a more puritain approach where Base R must be learnt before anything else. Others propogated short-cuts which went over my head. Talk about irony.
 

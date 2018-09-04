@@ -22,7 +22,7 @@ Adorning the title of this first blog post with a line from Sienfeld – “not 
 It has happened many a time to me; I started R with great excitement and then got discouraged soon when I was unable to get the data, get it properly in R. In hindsight, that was because of an availablity of abundance of resources. Each resource had a different way of doing the same thing. Some had a more puritain approach where Base R must be learnt before anything else. Others propogated short-cuts which went over my head. Talk about irony.
 
 
-## Stumbling Upon (Happiness) R
+## Stumbling Upon R(happiness)
 
 This time proved to different. How?
 

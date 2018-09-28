@@ -13,7 +13,7 @@ blog: true
 star: false
 ---
 
-This is my first real blog entry recording my real R learning experiences. The [first blog entry]( https://asadalishah.github.io/Learning-R/) was about making my intentions about recording my experiences public. 20 days since I made my intentions public… So much for the theory purporting public proclamations increase motivation . 
+This is my first real blog entry recording my real R learning experiences. The [first blog entry]( https://asadalishah.github.io/Learning-R/) was about making my intentions about recording my experiences public. Just _24_ days since I made my intentions public… So much for the theory purporting public proclamations increase motivation . 
 
 I digress; let’s learn how to import data from SPSS files.
 

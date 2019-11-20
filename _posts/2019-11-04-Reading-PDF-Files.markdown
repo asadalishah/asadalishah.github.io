@@ -103,12 +103,12 @@ This plot didn't disappoint this time either and revealed some shocking statisti
 
 Given below are two annotated charts. This first chart plots cumulative percentage contribution of tax on y-axis against the percentage contribution of each body count (if you will) on x-axis.
 
-[add image]
+![PDF](https://imgur.com/TKqThLJ)
 
 
 The second plots the actual number of parlimentarians on x-axis against the percentage contribution of tax by each one of them on y-axis.
 
-[add image]
+![PDF](https://imgur.com/W9Mxtdk)
 
 
 ## What’s next?
@@ -121,4 +121,4 @@ Here is an initial list of what I would like to do next on this project.
 Ultimately, I would like to develop a tax data product which is searchable by parliamentarians name, constituency, city, or any other property of interest. 
 
 
-For those of you, who want to use this code or the data, it is available here. 
+For those of you, who want to use this code or the data, it is available here. Give me a shout if you would like to work on it together.

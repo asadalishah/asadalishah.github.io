@@ -108,7 +108,7 @@ Given below are two annotated charts. This first chart plots cumulative percenta
 
 The second plots the actual number of parlimentarians on x-axis against the percentage contribution of tax by each one of them on y-axis.
 
-![PDF](<blockquote class="imgur-embed-pub" lang="en" data-id="a/cCN4MnB"><a href="//imgur.com/a/cCN4MnB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+[[https://github.com/asadalishah/asadalishah.github.io/blob/master/assets/images/profile.png]]
 
 
 ## What’s next?

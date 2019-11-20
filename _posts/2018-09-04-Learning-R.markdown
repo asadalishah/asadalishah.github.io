@@ -7,7 +7,7 @@ tag:
 - Beginner
 - Motivation
 - Analytics
-blog: true
+blog: false
 star: false
 ---
 

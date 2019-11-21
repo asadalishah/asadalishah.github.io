@@ -121,4 +121,4 @@ Here is an initial list of what I would like to do next on this project.
 Ultimately, I would like to develop a tax data product which is searchable by parliamentarians name, constituency, city, or any other property of interest. 
 
 
-For those of you, who want to use this code or the data, it is available here. Give me a shout if you would like to work on it together.
+For those of you, who want to use this code or the data, it is available here. 

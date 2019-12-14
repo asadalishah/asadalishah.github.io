@@ -104,11 +104,13 @@ This plot didn't disappoint this time either and revealed some shocking statisti
 Given below are two annotated charts. This first chart plots cumulative percentage contribution of tax on y-axis against the percentage contribution of each body count (if you will) on x-axis.
 
 ![images](https://github.com/asadalishah/asadalishah.github.io/blob/master/assets/images/tax_percentage.png)
+![images](https://raw.githubusercontent.com/asadalishah/asadalishah.github.io/master/assets/images/tax_percentage.png)
 
 
 The second plots the actual number of parlimentarians on x-axis against the percentage contribution of tax by each one of them on y-axis.
 
 ![images](https://github.com/asadalishah/asadalishah.github.io/blob/master/assets/images/tax_abs.png)
+![images](https://raw.githubusercontent.com/asadalishah/asadalishah.github.io/master/assets/images/tax_abs.png)
 
 
 ## What’s next?
